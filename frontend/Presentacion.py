@@ -26,7 +26,7 @@ Datosacademicos = html.Div([
 
 # Nombre del proyecto - Descripcion
 ProyectoTitulo = html.H2('SUELOS-BOGOTÁ')
-ProyectoContenido=html.H4('Consulta las caracteristicas que se encuentran en el suelo en la ciudad de Bogotá por localidades, como la respuesta sísmica del suelo, la zonificación geotécnica, la geología urbana y la geología rural recopilados por el Instituto Distrital de Gestión del Riesgo y el Cambio Climático - IDIGER, al igual que la cantidad de habitantes segun el senso 2010 que se encuentran en la clasificación.'
+ProyectoContenido=html.H4('Consulta las caracteristicas que se encuentran en el suelo en la ciudad de Bogotá por localidades, como la respuesta sísmica del suelo, la zonificación geotécnica, la geología urbana y la geología rural recopilados por el Instituto Distrital de Gestión del Riesgo y el Cambio Climático - IDIGER, al igual que la cantidad de habitantes segun el censo 2010 que se encuentran en la clasificación.'
                           )
     
 
